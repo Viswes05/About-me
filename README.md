@@ -1,20 +1,40 @@
-👋 Hey! I'm Visweswaran VJ, an aspiring full-stack developer exploring Java and Python to build helpful software solutions and tackle LeetCode challenges.
-My goal is to become an all-rounder in software engineering, with solid skills in both the front end and back end.
+# Visweswaran Vijay
 
-🌱Current Focus: Learning Java full stack, developing coding skills, and working on projects that help others.  
-🚀Goals: Start my startup someday or work with a top-tier software company as a developer.  
-🎯Hobbies: Photography, sports, and diving into videography and editing.
+### Java Full-Stack Developer | Core Python | Photography & Creative Tech | CSE Major
 
-Let’s connect and build something amazing together!
+Computer Science Major focused on Java Full-Stack Development, with a solid foundation in Core Python. I enjoy building practical software, solving problems, and exploring how technology can turn ideas into efficient, real-world solutions.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Viswes05&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Viswes05&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Viswes05&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Alongside development, I’m interested in photography and creative technology, where technical thinking meets visual creativity.
 
----
-[![](https://visitcount.itsvg.in/api?id=Viswes05&icon=0&color=0)](https://visitcount.itsvg.in)
+## Currently Exploring
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Java Full-Stack Development
+- Spring Boot
+- JavaScript and React
+- Python
+- Data Structures and Algorithms (DSA)
+- Building personal projects
+
+## Tech Stack
+
+**Java Full-Stack**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Additional**
+
+![Python](https://img.shields.io/badge/Python%20(Core)-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Basic familiarity with C and C++.
+
+## Projects
+
+I’m building and experimenting with projects as I continue developing my skills in software engineering and full-stack development.
+My repositories include Java programs, web development exercises, and personal projects created throughout my learning journey.
+I'm always learning, building, and looking for better ways to turn ideas into useful software.
